@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: reaktoro-pse
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/reaktoro-pse/reaktoro_pse-{{ version }}.tar.gz
-  sha256: 669de1b69249c7a9fcdf449f4fd9c40b9f04c386464cb14b3182f951d01a6a6d
+  sha256: 73683979738c108108b56ce607d04a80f54af59ef9764338608283f53ace73fb
 
 build:
   noarch: python
